@@ -4,21 +4,23 @@
 
 ## **Table of Contents**
 
-* Introduction
-* Features
-* Installation
-* Quick Start
-* Modules
-  * models.py
-  * data.py
-  * training.py
-  * evaluation.py
-  * utils.py
-  * train.py
-* Scaling Law Research Pipeline
-* Hyperparameter Search
-* Contributing
-* License
+## **Table of Contents**
+
+* [Introduction](#introduction)
+* [Features](#features) 
+* [Installation](#installation)
+* [Quick Start](#quick-start)
+* [Modules](#modules)
+ * [models.py](#modelspy)
+ * [data.py](#datapy)
+ * [training.py](#trainingpy)
+ * [evaluation.py](#evaluationpy) 
+ * [utils.py](#utilspy)
+ * [train.py](#trainpy)
+* [Scaling Law Research Pipeline](#scaling-law-research-pipeline)
+* [Hyperparameter Search](#hyperparameter-search)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## **Introduction**
 
